@@ -1,4 +1,4 @@
-# 区块链小白书
-李笑来（著）&copy; 2019
+# Mixin漫游指南
+芒果自学@陈健（整理）&copy; 2020
 
 ![](/images/blbcover.gif)
